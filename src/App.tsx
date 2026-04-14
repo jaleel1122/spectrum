@@ -54,7 +54,7 @@ export default function App() {
           <div className="flex justify-between h-20 items-center">
             <div className="flex items-center gap-2">
               <div className="rounded-lg">
-                 <img src={logoImage} alt="Logo" className="h-6 w-6" />
+                 <img src={logoImage} alt="Logo" className="h-9 w-9" />
               </div>
               <div>
                 <span className="text-xl font-bold tracking-tight text-gray-900 block leading-none">SPECTRUM</span>
