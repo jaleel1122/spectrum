@@ -3,6 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+import logoImage from '../WhatsApp Image 2026-04-15 at 12.06.36 AM.jpeg'
+
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
 import { 
@@ -52,7 +54,7 @@ export default function App() {
           <div className="flex justify-between h-20 items-center">
             <div className="flex items-center gap-2">
               <div className="bg-red-600 p-2 rounded-lg">
-                 <img src="/WhatsApp Image 2026-04-15 at 12.06.36 AM.jpeg" alt="Logo" className="h-6 w-6" />
+                 <img src={logoImage} alt="Logo" className="h-6 w-6" />
               </div>
               <div>
                 <span className="text-xl font-bold tracking-tight text-gray-900 block leading-none">SPECTRUM</span>
