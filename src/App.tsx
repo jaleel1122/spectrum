@@ -54,7 +54,7 @@ export default function App() {
           <div className="flex justify-between h-20 items-center">
             <div className="flex items-center gap-2">
               <div className="rounded-lg">
-                 <img src={logoImage} alt="Logo" className="h-9 w-9" />
+                 <img src={logoImage} alt="Logo" className="h-10 w-10" />
               </div>
               <div>
                 <span className="text-xl font-bold tracking-tight text-gray-900 block leading-none">SPECTRUM</span>
@@ -149,7 +149,7 @@ export default function App() {
               <h2 className="text-sm font-bold text-red-600 uppercase tracking-[0.2em] mb-4">Our Legacy</h2>
               <h3 className="text-4xl font-bold text-gray-900 mb-6">Quality Education for Every Child</h3>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Spectrum High School has been dedicated to academic excellence for over 20 years. We focus on holistic development, ensuring our students are prepared for future challenges.
+                Spectrum High School has been dedicated to academic excellence for over 25 years. We focus on holistic development, ensuring our students are prepared for future challenges.
               </p>
               <div className="grid sm:grid-cols-2 gap-4">
                 {[
