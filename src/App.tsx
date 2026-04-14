@@ -53,7 +53,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-20 items-center">
             <div className="flex items-center gap-2">
-              <div className="bg-red-600 p-2 rounded-lg">
+              <div className="rounded-lg">
                  <img src={logoImage} alt="Logo" className="h-6 w-6" />
               </div>
               <div>
