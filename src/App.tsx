@@ -52,7 +52,7 @@ export default function App() {
           <div className="flex justify-between h-20 items-center">
             <div className="flex items-center gap-2">
               <div className="bg-red-600 p-2 rounded-lg">
-                <BookOpen className="h-6 w-6 text-white" />
+                 <img src="/WhatsApp Image 2026-04-15 at 12.06.36 AM.jpeg" alt="Logo" className="h-6 w-6" />
               </div>
               <div>
                 <span className="text-xl font-bold tracking-tight text-gray-900 block leading-none">SPECTRUM</span>
